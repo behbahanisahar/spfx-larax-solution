@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "spfx-larax-solution",
+    "libraryId": "4c566ad6-ed1f-47a2-b194-d2a76c84d619",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
